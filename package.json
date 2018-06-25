@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "http://blog.heronode.io",
   "private": true,
   "dependencies": {
     "braft-editor": "^1.6.1",
